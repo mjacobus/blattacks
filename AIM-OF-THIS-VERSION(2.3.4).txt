@@ -1,0 +1,3 @@
+I'll try to anable features such:
+blattacks stop > Killed > it should be "Blattacks was killed"
+Slack 12 has some different way of recording the date in /var/log/messages. I need to create a script to guess it.
